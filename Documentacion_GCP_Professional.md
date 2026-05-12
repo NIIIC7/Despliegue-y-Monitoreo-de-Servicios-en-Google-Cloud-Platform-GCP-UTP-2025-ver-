@@ -2,7 +2,9 @@
 
 ## 1. Identificación del Proyecto
 **Curso:** Integración de servicios cloud GCP  
-**Integrantes:** * Nick Christian Uchasara Gonzales (U21318040)
+**Integrantes:** * Nick Uchasara  
+* Alfredo Galvan  
+**Docente:** Ivan Vladimir Martinez Moran  
 **Institución:** Universidad Tecnológica del Perú (UTP)  
 **Fecha:** 2025
 

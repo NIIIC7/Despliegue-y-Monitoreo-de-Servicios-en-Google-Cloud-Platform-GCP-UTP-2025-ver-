@@ -1,0 +1,2 @@
+# Despliegue-y-Monitoreo-de-Servicios-en-Google-Cloud-Platform-GCP-UTP-2025-ver-
+Implementación en GCP de servidores Windows (2016/2022) y bases de datos Cloud SQL (MySQL). Se configuró Cloud Monitoring y Logging para supervisión de métricas y eventos, diseñando dashboards personalizados para el análisis de rendimiento en tiempo real. Enfoque en alta disponibilidad, seguridad y gestión eficiente de recursos en la nube.
